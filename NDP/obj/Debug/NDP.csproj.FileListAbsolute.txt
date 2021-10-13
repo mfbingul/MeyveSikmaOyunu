@@ -1,0 +1,10 @@
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.csprojAssemblyReference.cache
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.Form1.resources
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.Properties.Resources.resources
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.csproj.GenerateResource.cache
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.csproj.CoreCompileInputs.cache
+C:\Users\omarg\source\repos\NDP\NDP\bin\Debug\NDP.exe.config
+C:\Users\omarg\source\repos\NDP\NDP\bin\Debug\NDP.exe
+C:\Users\omarg\source\repos\NDP\NDP\bin\Debug\NDP.pdb
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.exe
+C:\Users\omarg\source\repos\NDP\NDP\obj\Debug\NDP.pdb
